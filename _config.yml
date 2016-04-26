@@ -1,0 +1,28 @@
+name: 1pe1
+favicon: null
+layout_spectrum: 0.8814679398201406
+typography_spectrum: 0.6355166852008551
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5474005292635411
+  lightness: 0.6850376350339502
+  saturation: 0.20680944086052477
+  rhythmicContrast: 0.8351606000214815
+purpose: []
